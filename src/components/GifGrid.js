@@ -11,13 +11,13 @@ export const GifGrid = ( {categoria} ) => {
     // LA NETEJA DEL COMPONENT ES CONSIDERABLE
 
 
-    //  const apiKey = 'P57qF7KBebhmbZERLpvjiEa2TVdIBbBM'
+    //  const apiKey = 'Aqui va el teu APIKEY'
     //  const url = 'https://api.giphy.com/v1/gifs/search/'
     //  const categoriaConsulta = { categoria }
 
     // const cercaGifs = async() => {
         
-    //     const url = `https://api.giphy.com/v1/gifs/search?q=${ encodeURI(categoria) }&limit=10&api_key=P57qF7KBebhmbZERLpvjiEa2TVdIBbBM`;
+    //     const url = `https://api.giphy.com/v1/gifs/search?q=${ encodeURI(categoria) }&limit=10&api_key=AQUI EL TEU APIKEY`;
     //     const resp = await fetch( url );
     //     const {data} = await resp.json();
     //     const gif = data.map( img => {
